@@ -1,5 +1,5 @@
 # Sample CRUD using Flutter and SQLite
-<i>by - LucasDev </i>
+<i>Starred and follow-me if this help you :)</i>
 
 ## Getting Started
 
